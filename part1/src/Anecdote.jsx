@@ -58,6 +58,7 @@ const Anecdote = () => {
         setPoints(copy)
          
         handleHighestVote(copy)
+        
     }
 
     return (
